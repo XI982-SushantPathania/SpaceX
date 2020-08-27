@@ -1,0 +1,50 @@
+.media {
+    height: 300px;
+    /* background-color:darkgrey; */
+
+  }
+  
+  .card > .MuiCard-root{
+      background-color: white;
+  }
+  .card > .MuiCardMedia-root {
+    background-size: contain;
+    background-color:darkgrey;
+
+  }
+  
+  .card {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+
+  }
+  
+  .title {
+    font-weight: bold;
+    font-size: 16px;
+    color: darkslateblue;
+  }
+  
+  .parent {
+    display: flex;
+    flex-direction: column;
+    align-items:initial;
+    justify-content: space-between;
+    font-size: 16px;
+    padding-top: 10px;
+  }
+  
+  .child {
+    font-weight: bold;
+  }
+  
+  .text {
+      float: left;
+  }
+  .value{
+      color: slateblue;
+      font-size: 16px;
+      font-weight: normal;
+  }
+ 

@@ -1,0 +1,13 @@
+.App {
+    font-family: LatoRegular;
+    background-color: lightgray;
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.mainheading {
+  padding-left: 25px;
+}
+
+
